@@ -1,0 +1,3 @@
+[submodule "Projects/Java/Spring/spring-oauth2-jpa-example"]
+	path = Projects/Java/Spring/spring-oauth2-jpa-example
+	url = https://github.com/LeoCarmona/spring-oauth2-jpa-example.git
